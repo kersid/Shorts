@@ -1,1 +1,1 @@
-All the files associated with Episode 1 of the Plugin Making Series
+Here's a dump for all of my code for the plugin making series. Enjoy!
