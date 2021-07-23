@@ -1,0 +1,7 @@
+author: kersid
+main: me.kersid_.Main.Main
+name: Episode_02
+version: 1.0.0
+commands:
+ shotgun:
+  description: Decides how many arrows are to be fired
