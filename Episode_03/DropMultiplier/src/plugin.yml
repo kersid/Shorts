@@ -1,0 +1,15 @@
+author: kersid_
+main: me.kersid_.Main.Main
+name: Episode_03
+version: 1.0.0
+commands:
+ randomdrops:
+  aliases: [rd]
+  description: Allows for customization of drop amounts
+permissions:
+  randomdrops.setup:
+    description: Allow users to change the amount of items dropped
+    default: op
+  randomdrops.set:
+    desctiption: Allow users to set which dropmode the server is on
+    default: op
